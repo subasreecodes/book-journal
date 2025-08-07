@@ -2,7 +2,7 @@
 
 <h3> application: a book journal app where user can add book, author, review and rating </h3>
 
-tech stack <br>
+<h3>Tech Stack </h3><br>
   Frontend: HTML, CSS, JavaScript (Vanilla JS, dynamic UI and Form handling) <br>
   Backend: Node.js <br>
   Database: PostgreSQL <br>
