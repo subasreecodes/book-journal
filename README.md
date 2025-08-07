@@ -1,8 +1,8 @@
 <h3>📖 an experiment with Prisma ORM </h3>
 
-<h5> application: a book journal app where user can add book, author, review and rating </h5>
+<h3> application: a book journal app where user can add book, author, review and rating </h3>
 
-<h5>tech stack</h5>
+tech stack
   Frontend: HTML, CSS, JavaScript (Vanilla JS, dynamic UI and Form handling) <br>
   Backend: Node.js <br>
   Database: PostgreSQL <br>
